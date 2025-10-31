@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Login</string>
+    <!-- Web Client ID (Web SDK Configuration) từ Firebase Console -->
+    <string name="default_web_client_id">77296183631-qr34hn4a78072hf3dv51ucsff4832e1t.apps.googleusercontent.com</string>
+</resources>
